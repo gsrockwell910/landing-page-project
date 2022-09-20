@@ -106,3 +106,43 @@ img {
     border-radius: 5px;
     padding: 5px 20px;
 }
+/* End hero styling */
+
+/* Start info section styling */
+.info-section {
+    text-align: center;
+    padding: 0 100px;
+    margin-bottom: 50px;
+    min-height: 50vh;
+}
+
+.info-title {
+    margin: 50px 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info {
+    max-width: 200px;
+}
+
+img.aqua-friends {
+    width: 200px;
+    height: 150px; 
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+    border-radius: 50px; 
+}
+
+.text {
+    font-size: 18px;
+    color: #1F2937;
+}
