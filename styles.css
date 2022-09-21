@@ -194,18 +194,18 @@ img.aqua-friends {
     width: 75%;
     border-radius: 10px;
     display: flex;
-    justify-content: space-between;
+   justify-content: space-between; 
 }
 
  .cta-button {
     background-color: #3882F6;
     color: #E5E7EB;
-    outline: 3px solid #E5E7EB;
-    outline-offset: -3px;
+    outline: 1px solid #E5E7EB;
+    outline-offset: -10px;
     width: 120px;
     border: none;
     padding: 5px 20px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .cta-heading, 
