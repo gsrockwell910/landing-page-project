@@ -178,3 +178,38 @@ img.aqua-friends {
     font-weight: 900;
 }
 /* End quote section */
+
+/* Start call to action section */
+.call-to-action-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 40vh;
+}
+
+.cta-container {
+    background-color: #3882F6;
+    padding: 50px;
+    width: 75%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ .cta-button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    outline: 3px solid #E5E7EB;
+    outline-offset: -3px;
+    width: 120px;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.cta-heading, 
+.cta-para {
+    color: #E5E7EB;
+}
+/* End call to action section */
