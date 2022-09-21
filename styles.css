@@ -213,3 +213,19 @@ img.aqua-friends {
     color: #E5E7EB;
 }
 /* End call to action section */
+
+/* Start footer styling */
+.footsie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    min-height: 65px;
+}
+
+.footsie-text {
+    font-size: 18px;
+    color: #E5E7EB;
+    opacity: 0.75;
+}
+/* End footer styling */
